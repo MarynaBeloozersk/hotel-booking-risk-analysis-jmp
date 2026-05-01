@@ -7,7 +7,7 @@ Using classification models and time-series analysis, the study examines how boo
 
 ## Project Files
 - 📄 [Final Report](./maryna_basalay_final_project_report.pdf)
-- 📊 [Presentation](./maryna_basalay_final_project_presentation.pdf)
+- 📊 [Presentation](maryna_basalay_final_project_presentation.pdf)
 
 ## Project Video
 https://youtu.be/1xM7fiH8qZg
