@@ -6,7 +6,6 @@ This project analyzes hotel booking data to identify reservations with a high ri
 Using classification models and time-series analysis, the study examines how booking characteristics and temporal patterns contribute to risk and supports more effective revenue management decisions.
 
 ## Project Files
-## Project Files
 - 📄 [Final Report](./maryna_basalay_final_project_report.pdf)
 - 📊 [Presentation](./maryna_basalay_final_project_presentation.pdf)
 
