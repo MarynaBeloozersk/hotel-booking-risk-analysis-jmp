@@ -10,7 +10,7 @@ Using classification models and time-series analysis, the study examines how boo
 - 📊 Presentation: maryna_basalay_final_project_presentation.pdf
 
 ## Project Video
-https://youtu.be/jl81e8Wq_VY
+https://youtu.be/1xM7fiH8qZg
 
 ## Key Insights
 - Risk has temporal structure (short-term persistence and seasonal patterns)
